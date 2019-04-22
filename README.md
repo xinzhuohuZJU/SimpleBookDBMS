@@ -20,3 +20,6 @@ A Simple Book Management Program
 3. 借书
 4. 还书
 5. 借书证管理
+
+# ER图
+![ER diagram](Library_ERD)
