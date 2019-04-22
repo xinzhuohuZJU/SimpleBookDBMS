@@ -22,4 +22,4 @@ A Simple Book Management Program
 5. 借书证管理
 
 # ER图
-![ER diagram](Library_ERD)
+![ER diagram](Library_ERD.bmp)
